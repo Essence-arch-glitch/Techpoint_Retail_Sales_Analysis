@@ -43,3 +43,13 @@ Three dashboard pages cover:
 
 ## Conclusion
 The analysis highlights revenue concentration across products and regions, changes in monthly performance, and opportunities to improve order fulfilment and business decision-making.
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Dashboard](Screenshot%202026-11-09%20175737.png)
+
+### 2. Product Performance
+![Product Performance](Screenshot%202026-11-09%20175849.png)
+
+### 3. Customer and Channel Analysis
+![Customer Analysis](Screenshot%202026-11-09%20175911.png)
